@@ -1,5 +1,6 @@
 # Skopelos Social Classes Game
 A Unity 2D Knowledge and Puzzle Game
+powered by Ontovisual, for my Internship
 
 
 # Η εφαρμογή "Η Κοινωνία της Σκοπέλου" φέρνει τον χρήστη πιο κοντά με την κοινωνική διαβάθμιση των τάξεων της Σκοπέλου με εναν ιδιαίτερα ενδιαφέρον τρόπο !
@@ -23,13 +24,14 @@ https://github.com/user-attachments/assets/3d0f5172-253c-4463-9ee9-c60d7fc1fd1d
 
 
 
-
-
-
   * # Λύστε το Παζλ!
   Τοποθετήστε τα κομμάτια στην σωστή τους θέση και δείτε ξανά την Σκόπελο ολόκληρη! 
 
 
+
+
+
+https://github.com/user-attachments/assets/826f3149-d4fd-4839-b9a8-d48a58a4cd99
 
 
 
